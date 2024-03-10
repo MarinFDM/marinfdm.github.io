@@ -1,0 +1,57 @@
+#logo{
+    width: 70px;
+    margin-right: 20px;
+}
+header{
+    display: flex;
+    background-color: grey;
+    justify-content: center;
+}
+body{
+    margin: 0;
+    font-family: "Stint Ultra Expanded", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.socialnetwork{
+    width: 30px;
+    padding: 2px;
+}
+#contenu{
+    display: flex;
+    margin-right: 20px;
+}
+nav{
+    margin-right: 40px;
+    text-wrap:nowrap;
+}
+#lienPage{
+    list-style-type: none;
+    padding-left: 40px;
+    
+}
+footer{
+    display: flex;
+    justify-content: right;
+    margin-right: 20px;
+}
+main{
+    text-align: justify;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+h2{
+    font-size:20px;
+}
+#villemorlhon{
+    width: 250px;
+}
+#chateau{
+    height: 400px;
+    margin-left: 20px;
+}
+#mainchateau{
+    display: flex;
+}
+
